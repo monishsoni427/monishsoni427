@@ -32,12 +32,12 @@ I am a **Software Engineer at Passageway Tech Private Limited** based in **Jaipu
 
 ### 🌟 Selected Work & Contributions
 
-#### [Vidyut Saarthi](https://portfolio-monish-soni-26.vercel.app/) (The Smart Meter App)
+#### [Vidyut Saarthi]() (The Smart Meter App)
 *A high-performance utility application built with Flutter & GetX.*
 - Implemented reactive state management to track real-time electricity consumption.
 - Integrated secure payment modules and real-time usage visualization.
 
-#### [TradeGrub](https://portfolio-monish-soni-26.vercel.app/) (The Trading App)
+#### [TradeGrub]() (The Trading App)
 *A cross-platform trading dashboard with modular UI.*
 - Architected low-latency market updates using a modular Flutter UI.
 - Automated the build-to-deploy workflow with a multi-stage Jenkins pipeline and Dockerized Python backend.
